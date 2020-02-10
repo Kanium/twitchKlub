@@ -1,0 +1,2 @@
+node demoBot.js
+pause
