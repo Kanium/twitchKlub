@@ -1,6 +1,11 @@
 # twitchKlub
 A framework for Twitch integration with Love2D
 
+## Requirements
+Node JS
+
+tmi.js (npm install tmi.js)
+
 ## Setup
 Merge the Roaming folder with your <username>/AppData/Roaming folder. Inside the Roaming/LOVE/twitchKlub folder you'll find the start.bat for the irc bot.
 
